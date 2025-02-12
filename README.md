@@ -1,3 +1,4 @@
+# Hi there! 👋 I'm Kamrul Hasan
 # 💫 About Me:
 🚀 About Me<br><br>I'm a passionate Computer Science & Engineering (CSE) student at Dhaka City College with expertise in C, C++, JavaScript, React, and Node JS. I have experience in web development and have been teaching for three years. I love solving problems, learning new technologies, and building cool projects.<br><br>🔧 Skills & Technologies<br><br>Languages: C, C++, JavaScript<br><br>Web Development: HTML, CSS, React Js, Node Js<br><br>Tools & Platforms: GitHub, VS Code, Figma<br><br>Other: Problem Solving, Teaching, Blogging
 
